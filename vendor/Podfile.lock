@@ -1,0 +1,15 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - SSZipArchive (1.1)
+
+DEPENDENCIES:
+  - FMDB (~> 2.6.2)
+  - SSZipArchive
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  SSZipArchive: de3d215ab73f87db627f81f2ce24f1731e3886c3
+
+COCOAPODS: 0.39.0
